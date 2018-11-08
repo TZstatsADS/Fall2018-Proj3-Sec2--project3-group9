@@ -5,13 +5,13 @@
 
 Term: Fall 2018
 
-+ Team #
++ Team 9
 + Team members
-	+ team member 1
-	+ team member 2
-	+ team member 3
-	+ team member 4
-	+ team member 5
+	+ Bai, Ruoxi       rb3313@columbia.edu
+	+ Jin, Xin         xj2215@columbia.edu
+	+ Wang, Yan        yw3177@columbia.edu
+	+ Wang, Yujia      yw3085@columbia.edu
+	+ Zhong, Chenzhong cz2486@columbia.edu
 
 + Project summary: In this project, we created a classification engine for enhance the resolution of images. 
 	
