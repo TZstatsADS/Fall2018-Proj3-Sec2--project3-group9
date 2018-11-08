@@ -13,9 +13,14 @@ Term: Fall 2018
 	+ Wang, Yujia      yw3085@columbia.edu
 	+ Zhong, Chenzhong cz2486@columbia.edu
 
-+ Project summary: In this project, we created a classification engine for enhance the resolution of images. 
-	
-**Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
+
+Summary: Tasked with increasing picture resolution in this project, we trained a GBM model as the baseline , and an Xgboost with modified data and parameters as the improvement, successfully increasing the PSNR.
+
+**Contribution statement**: Chenzhong Zhong did feature extraction, training, super resolution, and PSNR part of both models.
+                         Ruoxi Bai developed the Xgboost model as an improvement, including tuning parameters with cross validation.
+                         Xin Jin did super resolution for both models, and tuning parameters with cross validation for the baseline model.
+                         Yujia Wang did super resolution part for both models, and cross validation for the Xgboost model.
+                         Yan Wang partipated in group meetings.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
